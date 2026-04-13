@@ -95,19 +95,6 @@ These are live, production applications serving real users.
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blerimHasa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blerimHasa&theme=github-dark-blue&hide_border=true" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blerimHasa&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>I build things that solve real problems. Always shipping, always learning.</i>
 </p>
